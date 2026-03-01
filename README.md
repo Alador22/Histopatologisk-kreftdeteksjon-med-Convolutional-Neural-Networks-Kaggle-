@@ -4,7 +4,7 @@ Dette prosjektet implementerer en Convolutional Neural Network (CNN) for å klas
 
 Prosjektet ble utviklet som en del av en universitetseksamen (karakter: A) og demonstrerer en komplett maskinlæringspipeline fra databehandling til modellvalidering og tolkning.
 
-![Uploading Grad-Cam.png…]()
+<img width="1529" height="828" alt="Grad-Cam" src="https://github.com/user-attachments/assets/a3cb8cf1-5062-40c2-919f-869769dadea2" />
 
 
 <img width="1488" height="98" alt="model_3_results" src="https://github.com/user-attachments/assets/f518c408-7aec-44dd-8f8f-04a8b934e2d0" />
