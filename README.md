@@ -4,6 +4,8 @@ Dette prosjektet implementerer en Convolutional Neural Network (CNN) for å klas
 
 Prosjektet ble utviklet som en del av en universitetseksamen (karakter: A) og demonstrerer en komplett maskinlæringspipeline fra databehandling til modellvalidering og tolkning.
 
+Kaggle: https://www.kaggle.com/competitions/histopathologic-cancer-detection/data
+
 <img width="1529" height="828" alt="Grad-Cam" src="https://github.com/user-attachments/assets/a3cb8cf1-5062-40c2-919f-869769dadea2" />
 
 
